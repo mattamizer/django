@@ -1,1 +1,3 @@
 # django
+
+Django tutorial code
